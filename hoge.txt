@@ -1,11 +1,8 @@
-hogehoge
-<<<<<<< HEAD
-hogehoge
+﻿hogehoge
 hogehoge
 hogehoge
 hogehoge
 hogehoge
 hogehoge
 hogehoge
-=======
->>>>>>> parent of e746b2a... hogehoge増加
+hogehoge
